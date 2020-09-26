@@ -1,6 +1,6 @@
 # PORTEN
 
-[**Trafico**](https://folick.github.io/Porten/) |
+[**Porten**](https://folick.github.io/Porten/) |
 [**Trafico**](https://folick.github.io/Trafico/) |
 [**Thousand Sunny**](https://folick.github.io/Thousand-Sunny/) |
 [**Healthy Switcher**](https://folick.github.io/Healthy-Switcher/) |
